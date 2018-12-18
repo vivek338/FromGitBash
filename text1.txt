@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7E04-51AB
+
+ Directory of C:\Users\Vignan\Desktop\MYProject
+
+19-12-2018  00:50    <DIR>          .
+19-12-2018  00:50    <DIR>          ..
+19-12-2018  00:50                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  726,551,080,960 bytes free
